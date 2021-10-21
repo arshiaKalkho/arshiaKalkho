@@ -1,4 +1,4 @@
-### Hi I'm arshia a CPA Graduate from Seneca College based in toronto canada. Currently I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning D3.js, Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy.
+Hi I'm arshia a CPA Graduate from Seneca College based in toronto canada. Currently, I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning D3.js, Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy. checkout my WEBSITE it's a work in progress but the basiscs is down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please sujest any improvments i deeply appriciate them :)
 
 <!--
 **arshiaKalkho/arshiaKalkho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
