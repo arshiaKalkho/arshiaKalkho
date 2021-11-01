@@ -1,11 +1,8 @@
-Hi I'm arshia a CPA Graduate from Seneca based in toronto canada.Currently, I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning D3.js, Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy.
+Hi I'm arshia a CPA Graduate from Seneca based in toronto canada.Currently, I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning  Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy.
 
 checkout my WEBSITE it's a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
 
-### Contact Me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,Node.js,JavaScript)
 
 
 
@@ -29,11 +26,22 @@ checkout my WEBSITE it's a work in progress but the basiscs are down and source 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+<br/>
+
+<br/>
+
+<br/>
+### Main Projects:
+
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-palm-tree&locale=en)](https://github.com/arshiaKalkho/silver-palm-tree)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=nodejs-express-hub&locale=en)](https://github.com/arshiaKalkho/nodejs-express-hub)
 
 
 
+### Contact Me:
 
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
