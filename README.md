@@ -32,7 +32,7 @@ checkout my WEBSITE it's a work in progress but the basiscs are down and source 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-palm-tree&locale=en)](https://github.com/arshiaKalkho/silver-palm-tree)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=nodejs-express-hub&locale=en)](https://github.com/arshiaKalkho/nodejs-express-hub)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=arshiaKalkho&show_icons=true&theme=gotham" alt="arshia | Stats" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=arshiaKalkho&show_icons=true&theme=light" alt="arshia | Stats" />
 <br />
 
 ### Contact Me:
