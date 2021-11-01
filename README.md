@@ -1,12 +1,9 @@
-Hi I'm arshia a CPA Graduate from Seneca based in toronto canada.Currently, I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning  Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy.
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a CPA Graduate from Seneca based in toronto canada.Currently, I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning  Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy.
 
 checkout my WEBSITE it's a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
 
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,Node.js,JavaScript)
 
-
-
-<br />
 
 
 ### Languages and Tools:
@@ -28,20 +25,21 @@ checkout my WEBSITE it's a work in progress but the basiscs are down and source 
 
 <br/>
 
-<br/>
 
-<br/>
 ### Main Projects:
 
+  
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-palm-tree&locale=en)](https://github.com/arshiaKalkho/silver-palm-tree)
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=nodejs-express-hub&locale=en)](https://github.com/arshiaKalkho/nodejs-express-hub)
 
-
+<p> <img src="https://github-readme-stats.vercel.app/api?username=arshiaKalkho&show_icons=true&theme=gotham" alt="arshia | Stats" />
+<br />
 
 ### Contact Me:
 
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
 
 
 
