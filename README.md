@@ -2,7 +2,7 @@ Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/m
 
 checkout my WEBSITE it's a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
 
-![Top Stack](https://widget.realdeveloper.pro/api/top?stack=React,Node.js,JavaScript)
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
 
 
 
