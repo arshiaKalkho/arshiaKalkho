@@ -1,4 +1,4 @@
-Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a CPA Graduate from Seneca based in toronto canada.Currently, I'm working on a MERN stack(MongoDB, Express, React, Node.js) and learning  Docker and GraphQL. My preferance for hosting is Azure, aws(still learning) and Netlify when I'm lazy.
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a CPA Graduate from Seneca based in toronto canada.Currently, I'm working on a React Native App(sturdy-pork-reactNativ). My preferance for hosting is Azure, aws and Netlify for my static apps.
 
 checkout my WEBSITE it's a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
 
