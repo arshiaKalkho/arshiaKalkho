@@ -1,4 +1,4 @@
-Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> a CPA Graduate from Seneca based in toronto canada. Currently, I'm working on a React Native App(sturdy-spork-reactNativ). My preferance for hosting is Azure, aws and Netlify for my static apps.
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada.
 
 checkout my WEBSITE it's a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
 
