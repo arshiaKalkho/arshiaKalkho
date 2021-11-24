@@ -29,8 +29,8 @@ checkout my WEBSITE it's a work in progress but the basiscs are down and source 
 ### Main Projects:
 
   
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-palm-tree&locale=en)](https://github.com/arshiaKalkho/silver-palm-tree)
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=nodejs-express-hub&locale=en)](https://github.com/arshiaKalkho/nodejs-express-hub)
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-octo-reactFront&locale=en)](https://github.com/arshiaKalkho/silver-octo-reactFront )
+[![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-octo-NodeJSBack&locale=en)](https://github.com/arshiaKalkho/silver-octo-NodeJSBack)
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=arshiaKalkho&show_icons=true&theme=light" alt="arshia | Stats" />
 <br />
