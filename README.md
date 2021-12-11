@@ -1,7 +1,7 @@
-Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on a MERN stack online store which will be published soon.
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on a MERN stack online store which will be published soon(silver-octo).
 
 checkout my WEBSITE its a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
-
+ 
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
 
 
