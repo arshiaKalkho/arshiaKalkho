@@ -1,4 +1,7 @@
 Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on a MERN stack online store which will be published soon(silver-octo).
+<!--
+credit for the hand wave animaiton "ABSphreak"
+-->
 
 checkout my WEBSITE its a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
  
@@ -34,7 +37,7 @@ checkout my WEBSITE its a work in progress but the basiscs are down and source c
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-octo-reactFront&locale=en)](https://github.com/arshiaKalkho/silver-octo-reactFront )
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=arshiaKalkho&repo=silver-octo-NodeJSBack&locale=en)](https://github.com/arshiaKalkho/silver-octo-NodeJSBack)
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=arshiaKalkho&show_icons=true&theme=light" alt="arshia | Stats" />
+<p> <img src="https://github-readme-stats.vercel.app/api?username=arshiaKalkho&show_icons=true&theme=lightinclude_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ABSphreak's Github Stats">
 <br />
 
 ### Contact Me:
