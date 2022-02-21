@@ -1,4 +1,4 @@
-Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on a MEVN stack online movie rating webapp called movioid and learning python Django.
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on a MEVN stack online movie rating app called movioid and learning python Django.
 
 <!--
 credit for the hand wave animaiton "ABSphreak"
