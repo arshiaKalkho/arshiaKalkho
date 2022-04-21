@@ -1,4 +1,4 @@
-Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on MEVN and MERN stack online apps like Movioid and Paradise also learning ASP.Net .
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on MEVN stack and ASP.Net core web apps like Movioid.
 
 <!--
 credit for the hand wave animaiton "ABSphreak"
