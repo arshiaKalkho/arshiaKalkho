@@ -1,4 +1,4 @@
-Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on vue application for Menupoly and learning .Net MVC. 
+Hi I'm arshia  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> based in toronto canada. Currently I'm working on vue application for Menupoly and learning TensorFlow. 
 
 <!--
 credit for the hand wave animaiton "ABSphreak"
@@ -6,7 +6,7 @@ credit for the hand wave animaiton "ABSphreak"
 
 checkout my WEBSITE its a work in progress but the basiscs are down and source code is available checkout sliver-palm-tree(arshiaKalkhorani.com) and please suggest any improvments i deeply appriciate them :)
  
-![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,React,Node.js)
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Vue.js,Node.js)
 
 
 
